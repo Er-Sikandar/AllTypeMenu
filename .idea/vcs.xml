@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChaiApp/ChaiApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/E-HarodeMedical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/E-OrbitsApp/E-OrbitsApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/E-Sanand" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/E-SanandStoreApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/E-TenonAttendence" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Empower 2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/F-Cloud-Attendence" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/F-KPTL-Attendence" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/F-StandAlone-Attendence" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/S-MpPoliceApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VoiceAssistentApp/VoiceAssistentApp" vcs="Git" />
+  </component>
+</project>
